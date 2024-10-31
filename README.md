@@ -1,6 +1,7 @@
 # Arkanoid Game
 
 This is a web-based implementation of the classic Arkanoid game. It's built using HTML, CSS, and JavaScript.
+*Esta es una implementación web del clásico juego Arkanoid. Está hecho usando HTML, CSS y JavaScript.*
 
 ![Game Screenshot](./assets/screenshot.png)
 
